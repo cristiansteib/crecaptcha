@@ -6,7 +6,7 @@ setup(
     author='Steib Cristian',
     author_email='cristiansteib@gmail.com',
     packages=['crecatpcha'],
-    url='https://github.com/cristiansteib/crecatpcha/',
+    url='https://github.com/cristiansteib/crecaptcha/',
     license='LICENSE.txt',
     description='reCatpcha api v3.0 - with django support',
     long_description=open('README.md').read(),
