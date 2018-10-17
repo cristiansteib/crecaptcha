@@ -1,7 +1,6 @@
 # crecaptcha [![PyPI version](https://badge.fury.io/py/crecaptcha.svg)](https://badge.fury.io/py/crecaptcha) ![Hex.pm](https://img.shields.io/hexpm/l/plug.svg) [![pep8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
   
 ###### A simple python module for  Google Recaptcha V3
-A pure python module, don't requires requests library
 
 ## Installation
 - from latest version on PyPi:
